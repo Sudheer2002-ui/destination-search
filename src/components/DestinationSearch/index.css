@@ -1,0 +1,36 @@
+.bg1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+.destdiv {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 50%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  height: 25px;
+  margin-left: 10px;
+}
+.inp {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  background-color: #f1f5f9;
+  border-radius: 15px;
+}
+.input {
+  padding: 10px;
+  border-width: 0px;
+  background-color: #f1f5f9;
+  outline: none;
+}
